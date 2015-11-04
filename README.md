@@ -1,6 +1,10 @@
 ## cx_Freeze Sample Project
 A very basic sample shows that how to convert a Python project into an executable for Windows by using cx_Freeze. 
 
+####Versions
+Python:     Python 3.4
+cx_Freeze:  you can get it from here http://cx-freeze.sourceforge.net/
+
 ####The project contains multiple modules in packages. 
 There's a trick for the packages: "__init__.py" need to be put in the package folders, otherwise cx_Freeze won't recognize the modules in the folder. 
 
