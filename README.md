@@ -1,5 +1,5 @@
 ## cx_Freeze Sample Project
-A very basic *sample* shows that how to convert a *Python* project into an *executable* for Windows by using *cx_Freeze*. 
+A very basic sample shows that how to convert a **Python** project into an **executable** for Windows by using cx_Freeze. 
 
 ####Versions
 ```Python:     Python 3.4```<br>
